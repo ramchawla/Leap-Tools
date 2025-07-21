@@ -10,7 +10,7 @@ const App = () => (
     <TooltipProvider>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Index />} />
+          <Route path="/Leap-Tools" element={<Index />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>
